@@ -2,7 +2,79 @@
 | ------------- | ------------- |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 278.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 171 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+🌆 Daytime                90 commits          █████████░░░░░░░░░░░░░░░░   35.16 % 
+🌃 Evening                74 commits          ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+🌙 Night                  62 commits          ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   24 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Tuesday                  82 commits          ████████░░░░░░░░░░░░░░░░░   32.03 % 
+Wednesday                42 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Friday                   10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Saturday                 29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Sunday                   48 commits          █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+PHP                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Kotlin                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Ruby                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mzyxsl/mzyxsl/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/08/2025 16:54:39 UTC
 <!--END_SECTION:waka-->
 
 ## 各种社交账号
