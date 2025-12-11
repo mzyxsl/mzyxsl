@@ -3,5 +3,5 @@
 ### Status
 ![mzyxsl 's Profile views](https://komarev.com/ghpvc/?username=mzyxsl)
 
-| [![mzyxsl's GitHub stats](https://github-readme-stats-five-silk-76.vercel.app/api?username=mzyxsl&show_icons=true&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats-five-silk-76.vercel.app/api/top-langs/?username=mzyxsl&layout=compact&locale=cn&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+| [![mzyxsl's GitHub stats](github-readme-stats-mu-one-55.vercel.app/api?username=mzyxsl&show_icons=true&hide_border=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](github-readme-stats-mu-one-55.vercel.app/api/top-langs/?username=mzyxsl&layout=compact&locale=cn&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 | --------------- | --------------- |
